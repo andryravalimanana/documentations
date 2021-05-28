@@ -2,6 +2,6 @@
 	"token": "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",
 	"user": "andryravalimanana",
 	"repo": "documentations",
-	"path": "assets",
+	"path": "./assets",
 	"jsdelivr": true
 }
